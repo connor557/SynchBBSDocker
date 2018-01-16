@@ -76,4 +76,4 @@ RUN chown bbsuser /etc/authbind/byport/70
 
 USER bbsuser
 
-EXPOSE 21
+EXPOSE 21 80 22 40513
